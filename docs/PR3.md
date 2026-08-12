@@ -1,0 +1,1 @@
+This pull request adds architecture, API contract, testing, and release guidance for the Flutter client.
